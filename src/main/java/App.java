@@ -19,6 +19,7 @@ public class App {
         System.out.println(secondCat.getMessage() + " said secondCat");
 
         System.out.println(firstHuman.equals(secondHuman));
+
         System.out.println(firstCat.equals(secondCat));
     }
 }
